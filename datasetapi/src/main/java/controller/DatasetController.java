@@ -1,3 +1,6 @@
+@RestController
+@RequestMapping("/api/dataset")
+public class DatasetController {
 package com.example.datasetapi.controller;
 
 import com.example.datasetapi.model.DatasetRecord;
